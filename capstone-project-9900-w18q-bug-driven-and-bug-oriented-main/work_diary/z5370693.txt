@@ -1,0 +1,45 @@
+
+Week 1
+Form the group
+Choose the project together
+Study on Figma and front end programming
+
+Week 2
+Look into other wait management system\'92s function / pros n cons
+Finish part of the proposal
+disscussion on function design
+
+Week 3
+Finish proposal and prepare for the frontend framework
+implement some components
+
+Week 4
+prepare for demo A(wrote scripts)
+provide some feedback for some functions
+
+Week 5
+finish sprint A' user stories
+complete demo A and the following retrospective A' meeting
+write the retrospective A draft
+
+Week 6
+implement some components
+
+Week 7
+write draft for demo B
+prepare demo B
+discussion on novel function upgarde
+
+Week 8
+prepare demo B
+test current system
+finish retrospective B report
+
+Week 9
+Test currnt system
+wrote script for final demostration
+work on draft of final report
+
+Week 10
+finish final report
+

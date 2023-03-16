@@ -1,0 +1,46 @@
+Week 1
+We formed the group and decided the group name. Then we discussed which project we want to develop. We discussed the project background and feasibility. 
+Finally, we chose wait management system. Otherwise, we opened the account for Jira. As a backend developer I start to learn the framework and database  
+system we used.
+
+Week 2
+We joined the github group. We had serveral meetings to discuss the project details. We devided the work of the project prototype. We chose Figma as the
+tool of drawing the prototype of web pages. As a backend developer, I start to initi a Flask project and keep learning and I tried to write some simple   
+examples about the operations of CRUD.
+
+Week 3
+We worked on our proposal. After finish the propsal, we started to set up our project. As a backend developer, I tried to set up database with the help of
+teammate on the AWS RDS. Otherwise, we created tables in the database and insert the initial data into each table. We also commumicated with the frontend 
+developers about the interfaces.
+
+Week 4
+We start coding and prepare for the first demostration. As a backend developer, I communicate with the frontend developer about the interface standard.
+We have set up a document to record the interface standard. Ohterwise, we decided the developing order of interface module. Most importantly, I deveop 
+several interfaces about customer module and successfully connect with the frontend.
+
+Week 5 
+We work hard on the sprint 1 and complete the first demostration successfully. After demostration, we hold a retrospective meeting to conclude what well 
+done and what need improve. Finally, we summarize a report draft. Otherwise, I continually to develop interfaces about wait staff module, optimize 
+developed interfaces and draft next plan. 
+
+Week 6
+We write and modify the retrospective report A and prepare for the sprint 2. As a backend developer, I continually to develop interface about wait staff 
+module, fix the bug of previous developed interfaces. Otherwise, I communicate with the frontend developer about the new interfaces standard and format. 
+
+Week 7
+We prepare the demostration B and develop interfaces. Moreover, we modify the developed interfaces about login module according to the suggestions from 
+the tutor. We make the login process more secure and reasonable. Moreover, we add several new interfaces for login process. Otherwise, I continually 
+develop new interface as usual.
+
+Week 8
+We conduct the demostration B this week. After demostration, we hold a retropective meeting to conclude what well done and what need improve about sprint 
+2. Finally, we summerize a report draft. Otherwise, I communicate with the frontend developers about the new interfaces standard and format about manager 
+module and start to develop corresponding interfaces.
+
+Week 9
+We complete the retropective B report and work for the final demo and final report. I complete all the interfaces this week. However, I still fix the 
+existed bug and improve the efficiency of code. The third party functionality of report is assigned to me, so I start looking for the corresponding 
+information and start to write the draft. Otherwise, we practice the final demostration several times this week.
+
+Week 10
+We complete the final demostration and report successfully and I submit the peer assessment on time. 

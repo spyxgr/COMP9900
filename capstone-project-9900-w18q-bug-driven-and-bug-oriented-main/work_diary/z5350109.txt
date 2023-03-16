@@ -1,0 +1,46 @@
+week1
+discuss on topic selection
+topic background survey
+study on webpage prototype and front-end technologh
+
+week2
+anayze the wait stuff function in the project
+write related user stories
+design UI for wait stuff
+
+week3
+learn react-based frontend programming
+implement components in customer page
+
+week4
+learn react-based frontend programming
+implement components in customer page
+
+week5
+meeting for the retrospective of demoB
+implement components in customer page
+
+week6
+Try imporvemt discussed in retrospective meeting
+implement components in customer page
+implement components in waiter page
+
+week7
+Try imporvemt discussed in retrospective meeting
+implement components in waiter page
+implement components in manager page
+
+week8
+meeting for the retrospective of demoB
+implement the components in manager page
+
+week9
+implement components in manager page
+Try imporvemt discussed in retrospective meeting
+start the draft of final project report
+
+week10
+finish the final project reprot
+prepare for the final demo
+fix frontend bugs found in test and mock demos
+

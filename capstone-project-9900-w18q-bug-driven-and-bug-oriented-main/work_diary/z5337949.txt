@@ -1,0 +1,55 @@
+week 1:
+Determine project topic
+Research on current wait systems
+
+week 2:
+Design system prototype(kitchen staff) by Figma
+Discuss system architecture
+Configure development environment
+
+week 3:
+Work on proposal
+Draw flow Diagrams of pages
+Config backlog and roadmap on Jira, and assign tasks to teammates
+Build and config MySQL cloud database on AWS
+
+week 4:
+Create dimensional and fact tables in database
+Insert test data into database
+Configure connection and data extraction in Tableau 
+Design and implement dashboard by Tableau
+
+Week 5:
+Embed dashboard into front-end of Manager Dashboard page
+Test current works
+Clear and prepare test data for Demo A
+Rehearsal Demo A with teammates
+
+Week 6:
+Check and submit Retrospective A Report(writen by Chenze Zhao)
+Implement and test back-end of Kitchen Orders View and Kitchen Items Mark module
+
+Week 7:
+Implement mian components of Kitchen related page, and layout them on pages front-end with the help of Pangyu Sun
+Integrate front-end and back-end of Kitchen Orders View and Kitchen Items Mark module
+Test current works
+
+Week 8:
+Test current works
+Clear and prepare test data for Demo B
+Rehearsal Demo B with teammates
+Decide three new-added functions with Pangyu Sun:
+(1. Tables in use cannot be selected in Order Start page 
+2. Automatically remove or update exceptional order records in database when orders' timeout 
+3. Add recommendation system in Customer page)
+
+Week 9:
+Research on recommendation system
+Implement these new-added functions in back-end
+Update security rules of AWS MySQL cloud database
+Test the full system
+
+Week 10:
+Work on Final Report
+Rehearsal Final Demo with teammates
+Clear and prepare test data for Final Demo

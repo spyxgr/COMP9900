@@ -1,0 +1,29 @@
+Week 1
+I found group member and named our group. Then we choose the wait management system as our project. Also, we brainstorm requirements of this project. All of us sign up and join the Jira. The leader assign task for us, I am a front-end developer. As the only person with front-end development experience, I decided the technology stack which we would use and guide others.
+
+Week 2
+We wrote user story and design the UI of our project. My task is to design the part of customers. I analyzed what the customers need and design the UI on the Figma. Also, I assisted to write the prototype, described technology stack of front-end. We held several meetings to discuss the logic between pages.
+
+Week 3
+I built the framework of the web page and designed the URL and router of each page. As the leader of the front-end development team, I divided the page into several components and assigned them to the team members.
+
+Week 4
+I finished the navigation bar of all the pages and connected the pages to the corresponding positions. Completed the layout of dishes on the customer's page and connected the back-end to the front-end to implement the function of ordering.
+
+Week 5
+I completed the layout of each item on the wait staff’s page and connected it to the back-end. Now the wait staff can receive the information from back-end, implement the interaction between the kitchen and the customer.
+
+Week 6
+I finished the logic and layout of kitchen’s page and connected it to the back-end. Implement the communication between the kitchen, customer and wait staff. Kitchen can mark every item in each order.
+
+Week 7
+I completed the logic and layout of all manager’s pages, including category, items, order, key, service. Manager now can add new categories, items, keys and observe the service and order situation of the restaurant.
+
+Week 8
+I completed the sorting functions of category and item, now manager can use drag and drop to change the order of category and item. I also add background pictures to customer page to make it more beautiful.
+
+Week 9
+I add recommendation bar at customer page and connect it to the back-end, now customers can receive correspond recommendation dishes when they select any dishes. Also, I optimize some layout and design of UI to make web pages more elegant.
+
+Week 10
+I format the code style, delete useless code, test the entire project, and fix bugs. Also, write report with my teammates and prepare for the demonstration 3.
